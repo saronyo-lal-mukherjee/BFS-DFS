@@ -18,7 +18,7 @@ int main()
 
 
 
-*(*(int)) adj_matrix()
+int** adj_matrix()
 {
 	int i,j,v,e,x,y;
 	int a[maxv][maxv];
