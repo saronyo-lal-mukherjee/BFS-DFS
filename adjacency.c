@@ -11,6 +11,7 @@ void display_adj_matrix(int**);
 int main()
 {
     display_adj_matrix(adj_matrix());
+	printf("Yayy");	
 }
 
 
